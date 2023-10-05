@@ -1,0 +1,68 @@
+body{
+    background-color: #ebebeb;
+}
+.container{
+    background-color: rgb(44, 44, 44);
+    color: #fff;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 30px;
+    height: 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    padding-top: 33px;
+}
+.navBar{
+    display: flex;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+#home{
+    margin-left: 450px;
+}
+#about{
+    margin-left: 50px;
+}
+#service{
+    margin-left: 50px;
+}
+#contact{
+    margin-left: 50px;
+}
+#changeclrcontainer{
+    height: 400px;
+    width: 80%;
+    text-align: center;
+    border: 1px black solid;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10%;
+    background-color: #fff;
+}
+#aboutus{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(48, 48, 48);
+}
+#para{
+    font-family: 18px;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+}
+#changeTheme{
+    background-color: rgb(80, 79, 79);
+    color: #fff;
+    width: 150px;
+    height: 40px;
+font-size: 15px;
+}
+#latest{
+    font-family: sans-serif;
+}
